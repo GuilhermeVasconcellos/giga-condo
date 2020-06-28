@@ -1,2 +1,2 @@
 # giga-condo
-Residential Condominiums
+Condomínios Residenciais
